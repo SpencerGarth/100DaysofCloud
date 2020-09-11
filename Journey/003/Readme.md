@@ -12,6 +12,4 @@
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
 [Tweet](https://twitter.com/SpencerGarth19/status/1303803088470528007)
