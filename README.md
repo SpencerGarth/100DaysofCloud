@@ -34,7 +34,7 @@ I would like to complete AI-100
 - [ ] ☁️ 3 > [Finished Text Analytics API Module](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [Working with Cognitive Language Services](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [](Journey/005/Readme.md)
-- [ ] ☁️ 6 > [](Journey/006/Readme.md)
+- [ ] ☁️ 6 > [Continued on the Azure Cloud Fundamentals](Journey/006/Readme.md)
 - [ ] ☁️ 7 > [](Journey/007/Readme.md)
 - [ ] ☁️ 8 > [](Journey/008/Readme.md)
 - [ ] ☁️ 9 > [](Journey/009/Readme.md)
