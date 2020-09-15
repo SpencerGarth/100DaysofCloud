@@ -33,10 +33,10 @@ I would like to complete AI-100
 - [ ] ☁️ 2 > [Azure Text Analytics API](Journey/002/Readme.md)
 - [ ] ☁️ 3 > [Finished Text Analytics API Module](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [Working with Cognitive Language Services](Journey/004/Readme.md)
-- [ ] ☁️ 5 > [](Journey/005/Readme.md)
+- [ ] ☁️ 5 > [Started Azure Fundamentals Module](Journey/005/Readme.md)
 - [ ] ☁️ 6 > [Continued on the Azure Cloud Fundamentals](Journey/006/Readme.md)
-- [ ] ☁️ 7 > [](Journey/007/Readme.md)
-- [ ] ☁️ 8 > [](Journey/008/Readme.md)
+- [ ] ☁️ 7 > [Overview of Azure Services, Building a Website and Cloud Shell](Journey/007/Readme.md)
+- [ ] ☁️ 8 > [Availability Zones, Region Pairs and SLA agreements](Journey/008/Readme.md)
 - [ ] ☁️ 9 > [](Journey/009/Readme.md)
 - [ ] ☁️ 10 > [](Journey/010/Readme.md)
 
