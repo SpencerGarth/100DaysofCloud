@@ -37,8 +37,8 @@ I would like to complete AI-100
 - [ ] ☁️ 6 > [Continued on the Azure Cloud Fundamentals](Journey/006/Readme.md)
 - [ ] ☁️ 7 > [Overview of Azure Services, Building a Website and Cloud Shell](Journey/007/Readme.md)
 - [ ] ☁️ 8 > [Availability Zones, Region Pairs and SLA agreements](Journey/008/Readme.md)
-- [ ] ☁️ 9 > [](Journey/009/Readme.md)
-- [ ] ☁️ 10 > [](Journey/010/Readme.md)
+- [ ] ☁️ 9 > [Navigation and Customization of the Azure Portal](Journey/009/Readme.md)
+- [ ] ☁️ 10 > [Dashboards and RAW compute power](Journey/010/Readme.md)
 
 ## Walking down the road
 

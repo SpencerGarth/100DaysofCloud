@@ -1,52 +1,26 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+<!-- This is a template you can use for quick progress days. It removes a lot of the steps we encourage you to share in the longer template 000-DAY-ARTICLE-LONG-TEMPLATE.MD-->
 
-# New post title here
-
-## Introduction
-
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
-
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+# Dashboards and RAW compute power
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+- Learned how to work with the Azure dashboard
 
-## Try yourself
+  - creating one for clients, cloning them, deleting them, customizing them
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+- Started the Azure Compute module
+  Learned about the 4 main compute techniques including
 
-### Step 1 — Summary of Step
+  1. VMs - just a mimic of a computer
+  2. App Service - great for web apps, a PAAS offering from Azure
+  3. Serverless - great for running code, fire it up and run your code, no setup required
+  4. Containers - same as VM's but multiple containers are running with one OS
 
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
+- Learned about VM's
+  - Scale Sets - lets you scale up and down depending on demand. The number of identical VMs running can automatically scale based on demand
+  - Availablity sets - to avoid one point of failure. if one shuts down the other one will pickup the load
+  - Batch - lets you fire up 100s, 1000s of VMs to run a huge batch of processes. Great for when you need RAW compute power. It will automatically scale down as processes finish off with nothing left in the queue.
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[Tweet](https://twitter.com/SpencerGarth19/status/1307030994113961984)
